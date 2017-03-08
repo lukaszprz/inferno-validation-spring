@@ -44,7 +44,7 @@
 	</dependencyManagement>
 
 	<modules>
-		<module>inferno-validation-rulesets-pl-module</module>
+		<module>inferno-validation-rulesets-pl</module>
 	</modules>
 
 	<distributionManagement>
