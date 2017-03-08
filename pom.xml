@@ -42,7 +42,7 @@
 		</dependencies>
 	</dependencyManagement>
 
-	<modules>
-		<module>../inferno-validation-rulesets-pl</module>
+	<modules>	
+		<module>inferno-validation-rulesets-pl-module</module>
 	</modules>
 </project>
